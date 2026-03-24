@@ -1,3 +1,32 @@
+# EDA: Engagement's Effect on Course Completion
+
+This Exploratory Data Analysis (EDA) project investigates the relationship between student engagement levels and the probability of successfully completing an online course.
+
+## 📝 Introduction
+The goal of this study is to define what it means to be "engaged" in a digital learning environment and to measure how these behavioral metrics influence the achievement of academic goals.
+
+## 💡 Hypothesis
+> "Being engaged results in markedly improved chances of completing a course."
+
+## 📊 Analysis Summary
+The study utilizes behavioral data to identify patterns among students. Key areas addressed include:
+- Data preparation and cleaning of datasets sourced from Kaggle.
+- Definition of "Engagement" metrics based on learning techniques.
+- Comparison of completion rates between average students and "highly engaged" students.
+
+## 🚀 Key Findings
+The analysis revealed that:
+- A randomly picked student has approximately a **39.64%** chance of completing the course.
+- However, for a student classified as **"highly engaged"**, the success probability more than doubles, reaching **98.33%**.
+- While individual data points might not be perfect predictors on their own, their aggregate clearly distinguishes students with the highest potential for success.
+
+## 🛠️ Technologies Used
+- Python 3
+- Jupyter Notebooks
+- Data Analysis Libraries (Pandas, Matplotlib/Seaborn)
+
+---
+ 
 # EDA: Impacto del compromiso (Engagement) en la finalización de cursos
 
 Este proyecto de Análisis Exploratorio de Datos (EDA) investiga la relación entre el nivel de compromiso de los estudiantes y su probabilidad de completar con éxito un curso en línea. 
